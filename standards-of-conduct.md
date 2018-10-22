@@ -1,0 +1,13 @@
+## Standards of Conduct (Code of Conduct)
+There is normal out-of-character version. The in-character ("IC") version can be found insode of various training documentation and in other locations. This version is considered to be the ultimate authority guiding community conduct.
+
+1. BendroCorp members are expected to be personable, professional and courteous at all times in their interactions with all members of the BendroCorp community and members of external gaming communities. 
+2. Obscene language will not be tolerated when dealing with other members or those external to the organization in the context of organization or during its activities.
+3. BendroCorp members will refrain from posting any content within BendroCorp systems which might be deemed “adult” content. Our goal is to keep our company and community friendly both to new and old members who come from a variety of different backgrounds and views. This includes text, pictures, video and any other forms of content.
+4. BendroCorp members are expected to be courteous and helpful to other employees regardless of their position within the company. Employees who refuse to render aid to other employees when they are in distress may be discharged from the company.
+5. BendroCorp members are expected to be respectful of all supervisors and staff placed over them. Members are expected to follow all reasonable instructions given to them by a supervisor. 
+6. Any attempt by an member to sow seeds of discord between other BendroCorp members and the officers or managers of BendroCorp will result in an immediate discharge. Any employee trying to create a “coup-d'etat” against corporate leadership will be subject to immediate discharge. No drama.
+7. BendroCorp will not at any time tolerate of any of its membership participating in activities which are detrimental to the gameplay of others. Piracy being defined by this company as, "Criminal violence for the purposes of robbery of ship and/or cargo while in space or air." Such actions will result in discharge of the employee and referral to the UEE Advocacy for legal proceedings.
+8. BendroCorp expects that when an employee chooses to opt-in to participate in BendroCorp missions and operations that they are present and available for those missions.
+9. BendroCorp will immediately discharge any members who become members of BendroCorp for the purpose of espionage (ie "meta-gaming").
+10. BendroCorp members agree to follow and abide by all other BendroCorp policies current and future.
