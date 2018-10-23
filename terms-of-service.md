@@ -1,6 +1,6 @@
 # Terms and Conditions ("Terms")
 
-# Last updated: 6/24/2018
+# Last updated: 10/22/2018
 
 Please read these Terms and Conditions ("Terms", "Terms and Conditions", “Terms of Service”) carefully before using any BendroCorp service or integration (the "Service") operated by BendroCorp ("us", "we", or "our"). This Terms of Service governs all parts of the Service.
 
