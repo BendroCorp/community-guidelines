@@ -1,6 +1,6 @@
 # Terms and Conditions ("Terms")
 
-# Last updated: 10/22/2018
+# Last updated: 10/23/2018
 
 Please read these Terms and Conditions ("Terms", "Terms and Conditions", “Terms of Service”) carefully before using any BendroCorp service or integration (the "Service") operated by BendroCorp ("us", "we", or "our"). This Terms of Service governs all parts of the Service.
 
@@ -21,7 +21,7 @@ This Service is build as a platform to our community of members and the those fr
 Our Privacy Policy describes how we handle the information you provide to us when you use our Services. You understand that by using of the Services you consent to the collection and use (as set forth in the Privacy Policy) of this information, including the transfer of this information to the United States, and/or other countries for storage, processing and use by BendroCorp, service providers, its affiliates and other as required to operate the Service.
 
 ## Content Overview
-Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material ("Content"). You are responsible for the content you post. You retain full ownership over any PII you submit so this service can be operated. By submitting content (ie. Text, Videos, Screenshots, Stories, Roleplay, etc) which is not PII you hereby grant BendroCorp a perpetual, unlimited license to store, retain and any such content if any way for as long as BendroCorp sees fit. For data integrity reasons all content “deletions” whereby content is “archived” and made non-visible. If you choose to fully terminate your account, via written notice, all content added by your account will be anonymized within our service with seven (7) working days.
+Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material ("Content"). You are responsible for the content you post. You retain full ownership over any PII you submit so this service can be operated. By submitting content (ie. Text, Videos, Screenshots, Stories, Roleplay, etc) which is not PII you hereby grant BendroCorp a perpetual, unlimited license to store, retain and otherwise use any such content in any way for as long as BendroCorp sees fit. For data integrity reasons all content “deletions” are in fact soft deletions whereby content is “archived” and made non-visible rather than being destroyed. If you choose to fully terminate your account, via written notice, all content added by your account will be anonymized within our service with seven (7) working days.
 
 ## Data Collection
 By using our service you consent to the collection of Personally Identifiable Information (“PII”) as required to operate the service. We reserve the right to retain certain kinds of PII even if you terminate the use of the service.
