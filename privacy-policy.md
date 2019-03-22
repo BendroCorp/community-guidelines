@@ -1,4 +1,4 @@
-# Battlespace Privacy Policy
+# BendroCorp Privacy Policy
 This Privacy Policy applies to all BendroCorp services and integrations.
 
 ## Overview
