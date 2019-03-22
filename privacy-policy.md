@@ -1,8 +1,8 @@
-# Privacy Policy
+# Battlespace Privacy Policy
 This Privacy Policy applies to all BendroCorp services and integrations.
 
 ## Overview
-This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security standards, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
 ## Information Ownership
 You retain full ownership over any PII you submit. By submitting content (ie. Text, Videos, Screenshots, Stories, Roleplay, etc) which is not PII you hereby grant BendroCorp a perpetual, unlimited, non-revokable license to store, retain and use any such content in any way for as long as BendroCorp sees fit. For data integrity reasons all content “deletions” whereby content is “archived” and made non-visible are soft deletions where the content is archived and no longer displayed. If you choose to fully terminate your account, via written notice, all content added by your account will be anonymized within our service with seven (7) working days.
