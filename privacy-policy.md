@@ -8,19 +8,26 @@ This privacy policy has been compiled to better serve those who are concerned wi
 You retain full ownership over any PII you submit. By submitting content (ie. Text, Videos, Screenshots, Stories, Roleplay, etc) which is not PII you hereby grant BendroCorp a perpetual, unlimited, non-revokable license to store, retain and use any such content in any way for as long as BendroCorp sees fit. For data integrity reasons all content “deletions” whereby content is “archived” and made non-visible are soft deletions where the content is archived and no longer displayed. If you choose to fully terminate your account, via written notice, all content added by your account will be anonymized within our service with seven (7) working days.
 
 ## What personal information do we collect from the people that use this application?
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience.
+Currently when connecting to our application stack we may collect the following personal information at various times:
+- Email
+- Street Address, City, State, Zip Code, Country
+- Credit Card Information
+- IP Address
+- Geolocation
+- Any other personal information you submit to us not otherwise directly collected for operating the service
 
 ## When do we collect information?
-We collect information from you when you register on our site, fill out a form or enter information on our site.
+We collect information from you when you register on our site, fill out forms or generally enter information on our site. We also gather geolocation data based on your IP address from third party sources.
 
 ## How do we use your information?
 We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
 - To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
-- To improve our website in order to better serve you.
+- To improve our application stack in order to better serve you.
 - To administer a contest, promotion, survey or other site feature.
 - To send periodic emails regarding your order or other products and services.
-- To follow up with them after correspondence (live chat, email or phone inquiries)
+- To follow up with them after correspondence (live chat, email or phone inquiries).
+- To ensure that the application stack remains secure (preventing unauthorized logins and other security related activities).
 
 ## How do we protect your information?
 We encrypt your personal data wherever possible.
@@ -29,7 +36,7 @@ We only allow third parties who you affirmatively consent to have access to your
 
 We conduct frequent vulnerability assessments and security reviews.
 
-Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Transport Layer Security (TLS) technology.
 
 We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information.
 
@@ -51,15 +58,15 @@ If users disable cookies in their browser:
 If you turn cookies off, Some of the features that make your site experience more efficient may not function properly.Some of the features that make your site experience more efficient and may not function properly.
 
 ## Third-party disclosure
-We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it's release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property or safety.
+We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include application stack hosting partners and other parties who assist us in operating our service, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it's release is appropriate to comply with the law, enforce our service policies, or protect ours or others' rights, property or safety.
 
 We currently work with the following 3rd party services to provide this service:
 
 - Amazon - for file storage via Amazon S3. Any files you upload to our service are stored here and are identified by the identification id unique to your account.
-- Stripe - for payment processing. The email account used to originally sign up for our service is disclosed along with any payment card information required to process payments.
+- Stripe - for payment processing. The email account used to originally sign up for our service is disclosed along with any payment card information required to process payments. We do not permanently store credit card information.
 - Digital Ocean - our primary cloud hosting provider where our data resides. While we don't technically share your data with them this is where it lives.
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+Non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
 ## Third-party links
 Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
@@ -80,10 +87,10 @@ Can change your personal information:
 - By logging in to your account
 
 ## Do Not Track
-We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place. Using such mechanisms may, however, strongly impede your ability to use our service.
 
 ## Does our site allow third-party behavioral tracking?
-We do not use or allow third-party behavioral tracking
+We do not use or allow third-party behavioral tracking.
 
 ## COPPA (Children Online Privacy Protection Act)
 When it comes to the collection of personal information from children under the age of 13 years old, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States' consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
@@ -95,7 +102,7 @@ The Fair Information Practices Principles form the backbone of privacy law in th
 
 In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:
 
-- We will notify you via email within 7 business days of when we become aware of a data branch and are able to identify affected users.
+- We will notify you via email within 7 business days of when we become aware of a data breach and are able to identify affected users.
 - We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
 
 ## CAN-SPAM Act
