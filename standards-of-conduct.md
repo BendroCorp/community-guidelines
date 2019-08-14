@@ -1,5 +1,5 @@
 ## Standards of Conduct (Code of Conduct)
-There is normal out-of-character version. The in-character ("IC") version can be found inside of various training documentation and in other locations. This version is considered to be the ultimate authority guiding community conduct.
+This is normal out-of-character version. The in-character ("IC") version can be found inside of various training documentation and in other locations. This version is considered to be the ultimate authority guiding community conduct.
 
 1. BendroCorp members are expected to be personable, professional and courteous at all times in their interactions with all members of the BendroCorp community and members of external gaming communities. 
 2. Obscene language will not be tolerated when dealing with other members or those external to the organization in the context of organization or during its activities.
