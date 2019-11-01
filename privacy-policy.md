@@ -22,11 +22,10 @@ We collect information from you when you register on our site, fill out forms or
 ## How do we use your information?
 We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-- To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+- To personalize your experience and to allow us to deliver the content that you are intended to see.
 - To improve our application stack in order to better serve you.
-- To administer a contest, promotion, survey or other site feature.
-- To send periodic emails regarding your order or other products and services.
-- To follow up with them after correspondence (live chat, email or phone inquiries).
+- To administer contests, promotions, surveys or other site features.
+- To send periodic emails, push notifications, Discord notifications and other forms of notifications regarding community business and services.
 - To ensure that the application stack remains secure (preventing unauthorized logins and other security related activities).
 
 ## How do we protect your information?
@@ -65,8 +64,23 @@ We currently work with the following 3rd party services to provide this service:
 - Amazon - for file storage via Amazon S3. Any files you upload to our service are stored here and are identified by the identification id unique to your account.
 - Stripe - for payment processing. The email account used to originally sign up for our service is disclosed along with any payment card information required to process payments. We do not permanently store credit card information.
 - Digital Ocean - our primary cloud hosting provider where our data resides. While we don't technically share your data with them this is where it lives.
+- Discord - we use Discord as our primary communications platform. You have to have a seperate account for Discord. We do share some information back and forth between the Discord platform and BendroCorp like email addresses, guild message contents and other contents from the BendroCorp API.
 
 Non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+## Discord Integration
+As outlined above, BendroCorp integrates with Discord as our primary communications platform. As a result, members must integrate their Discord account with the BendroCorp application stack with limited a limited set of permissions/scopes. The below scopes represent the totality of access that BendroCorp has to a user's Discord account. Below is the explanation of how each of those scopes/permissions are used and their limitations:
+
+- Server.Join ("Join servers for you") - allows us to join a user to a server that the bot can control. (ie only our Discord server)
+- Email - "Access your email address" - the second most essential piece. This provides the literal email string that is associated with your Discord account (ie. john.doe@gmail.com). This does **not** provide access to your *actual* email messages (Discord can't access that either). We use this information from Discord for a one time lookup in our database to locate your user account. To link your account to BendroCorp the email provided by Discord must match the email address on your account.
+- Identity - "Access your username and avatar". The most essential piece of information. Provides access to essential user information including Discord ID, username and avatar. This does **not** provide access to any private/direct messages or any other personal data.
+
+Futhermore the "bot" visible in Discord as "Kaden" and referred to furthermore as "Kaden" has access to any and all data visible within any part of the Discord BendroCorp server/guild instance which includes but is not limited to:
+
+- All chat messages
+- Voice presence
+- Security Groups
+- User data
 
 ## Third-party links
 Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
