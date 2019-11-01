@@ -5,7 +5,7 @@ This Privacy Policy applies to all BendroCorp services and integrations.
 This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security standards, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
 ## Information Ownership
-You retain full ownership over any PII you submit. By submitting content (ie. Text, Videos, Screenshots, Stories, Roleplay, etc) which is not PII you hereby grant BendroCorp a perpetual, unlimited, non-revokable license to store, retain and use any such content in any way for as long as BendroCorp sees fit. For data integrity reasons all content “deletions” whereby content is “archived” and made non-visible are soft deletions where the content is archived and no longer displayed. If you choose to fully terminate your account, via written notice, all content added by your account will be anonymized within our service with seven (7) working days.
+You retain full ownership over any PII you submit. By submitting content (ie. Text, Videos, Screenshots, Stories, Roleplay, etc) which is not PII you hereby grant BendroCorp a perpetual, unlimited, non-revokable license to store, retain and use any such content in any way for as long as BendroCorp sees fit. For data integrity reasons most content “deletions” are actually “archivals” and made non-visible do the content is no longer displayed. If you choose to fully terminate your account, via written notice, all content added by your account tied to your account will be anonymized within our service within seven (7) working days.
 
 ## What personal information do we collect from the people that use this application?
 Currently when connecting to our application stack we may collect the following personal information at various times:
@@ -61,8 +61,8 @@ We do not sell, trade, or otherwise transfer to outside parties your Personally 
 
 We currently work with the following 3rd party services to provide this service:
 
-- Amazon - for file storage via Amazon S3. Any files you upload to our service are stored here and are identified by the identification id unique to your account.
-- Stripe - for payment processing. The email account used to originally sign up for our service is disclosed along with any payment card information required to process payments. We do not permanently store credit card information.
+- Amazon - for file storage via Amazon S3. Any files you upload to our service are stored here and are identified by the identification id unique to your account and secured in an encrypted manner within the S3 service.
+- Stripe - for payment processing. The email account used to originally sign up for our service is disclosed along with any payment card information required to legally process payments. We do not permanently store credit card information.
 - Digital Ocean - our primary cloud hosting provider where our data resides. While we don't technically share your data with them this is where it lives.
 - Discord - we use Discord as our primary communications platform. You have to have a seperate account for Discord. We do share some information back and forth between the Discord platform and BendroCorp like email addresses, guild message contents and other contents from the BendroCorp API.
 
