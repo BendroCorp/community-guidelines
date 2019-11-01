@@ -57,7 +57,7 @@ If users disable cookies in their browser:
 If you turn cookies off, Some of the features that make your site experience more efficient may not function properly.Some of the features that make your site experience more efficient and may not function properly.
 
 ## Third-party disclosure
-We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include application stack hosting partners and other parties who assist us in operating our service, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it's release is appropriate to comply with the law, enforce our service policies, or protect ours or others' rights, property or safety.
+We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include application stack hosting partners and other parties who assist us in operating our service, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it's release is appropriate to comply with the law, enforce our service policies, or protect ours or others' rights, property or safety.
 
 We currently work with the following 3rd party services to provide this service:
 
