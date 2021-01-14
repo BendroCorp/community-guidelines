@@ -62,7 +62,7 @@ We do not sell, trade, or otherwise transfer to outside parties your Personally 
 We currently work with the following 3rd party services to provide this service:
 
 - Amazon - for file storage via Amazon S3. Any files you upload to our service are stored here and are identified by the identification id unique to your account and secured in an encrypted manner within the S3 service.
-- Stripe - for payment processing. The email account used to originally sign up for our service is disclosed along with any payment card information required to legally process payments. We do not permanently store credit card information.
+- Stripe - for payment processing. The email account used to originally sign up for our service is disclosed along with any payment card information required to legally process payments. We do not store credit card information within the BendroCorp service. For one time donations Stripe stores your information long enough to effectuate the transaction. In the case of Supporter Program subscriptions, Stripe will maintain your personal and credit card information as long as the subscription is active.
 - Digital Ocean - our primary cloud hosting provider where our data resides. While we don't technically share your data with them this is where it lives.
 - Discord - we use Discord as our primary communications platform. You have to have a seperate account for Discord. We do share some information back and forth between the Discord platform and BendroCorp like email addresses, guild message contents and other contents from the BendroCorp API.
 
