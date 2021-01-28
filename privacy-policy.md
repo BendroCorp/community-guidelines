@@ -10,23 +10,33 @@ You retain full ownership over any PII you submit. By submitting content (ie. Te
 ## What personal information do we collect from the people that use this application?
 Currently when connecting to our application stack we may collect the following personal information at various times:
 - Email
-- Street Address, City, State, Zip Code, Country
+- Address Information: Street Address, City, State, Zip Code, Country
 - Credit Card Information
 - IP Address
 - Geolocation
-- Any other personal information you submit to us not otherwise directly collected for operating the service
+- Device identifiers
+- Any other personal information you submit to us not otherwise directly collected for operating the service through voluntary submission (ie chats, messages, etc) 
 
 ## When do we collect information?
 We collect information from you when you register on our site, fill out forms or generally enter information on our site. We also gather geolocation data based on your IP address from third party sources.
 
 ## How do we use your information?
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+We use the information you provide from direction collection of the above data for the following purpose:
+- Email
+   - Email data is gathered to aid in facilicating the authentication of your identity and as an avenue for communicating with you.
+- Address Information
+   - We only collect address information for the purpose os shipping physical items to you from the BendroCorp swag store and exchange.
+   - In the case of the BendroCorp exchange, by entering in an a sale agreement with an item seller you authorize us to release your information to the selling member.
+- Credit Card Information
+  - We temporarily gather credit card information from you solely for the purpose of facilitating payments. We do not store credit information at all within the BendroCorp service. Any payment card information is passed to our payment processor. Please see the section for **Stripe** in our **Third-party disclosures**.
+- IP Address
+  - We gather your IP address information for information security purposes. Your IP addresses allows to determine where a request originated from which allows us to prevent bad actors from accessing your data and our data.
+- Geolocation
+  - We collect geolocation data based on IP address for the afformentioned purpose.
+- Device Identifiers
+  - We gather device identiers to both track the number of installations and when combined with push notifications we use that information to ensure that are not sending duplicate device notifications.
 
-- To personalize your experience and to allow us to deliver the content that you are intended to see.
-- To improve our application stack in order to better serve you.
-- To administer contests, promotions, surveys or other site features.
-- To send periodic emails, push notifications, Discord notifications and other forms of notifications regarding community business and services.
-- To ensure that the application stack remains secure (preventing unauthorized logins and other security related activities).
+At no time do we use any of your information for advertising purposes or any other purpose not directly involved in facilitating the operation of the service.
 
 ## How do we protect your information?
 We encrypt your personal data wherever possible.
@@ -47,21 +57,26 @@ Yes.
 Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
 We use cookies to:
-Persist some kinds of information across sessions.
+To allow for you to remain logged in be safely storing a refresh token.
+
 You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser's Help Menu to learn the correct way to modify your cookies.
 
 ## Other Persistence Caches
 The primary way we maintain your session within a browser environment is via "local storage". Local storage is a newer technology within browsers which allow websites to store more sophisticated strings of data.
 
 If users disable cookies in their browser:
-If you turn cookies off, Some of the features that make your site experience more efficient may not function properly.Some of the features that make your site experience more efficient and may not function properly.
+If you turn cookies off, Some of the features that make your site experience more efficient may not function properly.
 
-## Third-party disclosure
-We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include application stack hosting partners and other parties who assist us in operating our service, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it's release is appropriate to comply with the law, enforce our service policies, or protect ours or others' rights, property or safety.
+## Third-party disclosures
+**We do not sell, trade, or otherwise transfer your personally identifiable information to outside parties for profit or advertising. _Ever_.**
+
+This does not include application stack hosting partners and other parties who assist us in operating our service and serving our users, so long as those parties agree to keep this information confidential and are shown to operate the services consistent with the principle that privacy is a human right. As a result, we are extremely selective about the services we choose to integrate with.
+
+We may also release information when it's release is appropriate to comply with the law or court order, enforce our service policies, or protect ours or others' civil and/or legal rights, property or safety.
 
 We currently work with the following 3rd party services to provide this service:
 
-- Amazon - for file storage via Amazon S3. Any files you upload to our service are stored here and are identified by the identification id unique to your account and secured in an encrypted manner within the S3 service.
+- Amazon - for file storage via Amazon S3. Any files you upload to our service are stored here and are identified by an identifier unique to the file (not your account) within the S3 service.
 - Stripe - for payment processing. The email account used to originally sign up for our service is disclosed along with any payment card information required to legally process payments. We do not store credit card information within the BendroCorp service. For one time donations Stripe stores your information long enough to effectuate the transaction. In the case of Supporter Program subscriptions, Stripe will maintain your personal and credit card information as long as the subscription is active.
 - Digital Ocean - our primary cloud hosting provider where our data resides. While we don't technically share your data with them this is where it lives.
 - Discord - we use Discord as our primary communications platform. You have to have a seperate account for Discord. We do share some information back and forth between the Discord platform and BendroCorp like email addresses, guild message contents and other contents from the BendroCorp API.
@@ -71,7 +86,6 @@ Non-personally identifiable visitor information may be provided to other parties
 ## Discord Integration
 As outlined above, BendroCorp integrates with Discord as our primary communications platform. As a result, members must integrate their Discord account with the BendroCorp application stack with limited a limited set of permissions/scopes. The below scopes represent the totality of access that BendroCorp has to a user's Discord account. Below is the explanation of how each of those scopes/permissions are used and their limitations:
 
-- Server.Join ("Join servers for you") - allows us to join a user to a server that the bot can control. (ie only our Discord server)
 - Email - "Access your email address" - the second most essential piece. This provides the literal email string that is associated with your Discord account (ie. john.doe@gmail.com). This does **not** provide access to your *actual* email messages (Discord can't access that either). We use this information from Discord for a one time lookup in our database to locate your user account. To link your account to BendroCorp the email provided by Discord must match the email address on your account.
 - Identity - "Access your username and avatar". The most essential piece of information. Provides access to essential user information including Discord ID, username and avatar. This does **not** provide access to any private/direct messages or any other personal data.
 
