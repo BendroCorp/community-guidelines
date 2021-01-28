@@ -32,7 +32,7 @@ We use the information you provide from direction collection of the above data f
 - IP Address
   - We gather your IP address information for information security purposes. Your IP addresses allows to determine where a request originated from which allows us to prevent bad actors from accessing your data and our data.
 - Geolocation
-  - We collect geolocation data based on IP address for the afformentioned purpose.
+  - We collect geolocation data based on/associated with a given IP address for the aforementioned information security purpose.
 - Device Identifiers
   - We gather device identiers to both track the number of installations and when combined with push notifications we use that information to ensure that are not sending duplicate device notifications.
 
