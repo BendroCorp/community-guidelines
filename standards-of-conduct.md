@@ -17,7 +17,7 @@ This is the normal and real world out-of-character code of conduct. The in-chara
 - Specific rules and policies apply to members in terms of attendance, which are seperately addressed, but no member will ever by removed from or lose their membership because of inactivity.
 
 ### 4. No meta-gaming
-- BendroCorp will immediately discharge/remove any members or guests who become members of or enter a community space operated or owned by BendroCorp for the purpose of espionage (ie "meta-gaming").
+- BendroCorp will immediately discharge/remove any members or guests who become members of or enter a community space operated or owned by BendroCorp for the sole purpose of espionage (ie "meta-gaming").
 
 ### 5. The Rules are the Rules
 - By particpating in BendroCorp community spaces you agree to follow our Standards of Conduct regardless of whether or not you are a guest or formal member. Failure to follow this Standard of Conduct will result in a removal from the BendroCorp community.
